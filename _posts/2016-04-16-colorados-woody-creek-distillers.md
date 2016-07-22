@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T16:40:57.769Z'
+datePublished: '2016-07-22T21:22:45.640Z'
 sourcePath: _posts/2016-04-16-colorados-woody-creek-distillers.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/woody-creek-distillers-colorado'
@@ -17,7 +17,8 @@ keywords:
   - small-batch
 related: []
 author: []
-dateModified: '2016-07-22T16:40:57.444Z'
+via: {}
+dateModified: '2016-07-22T21:22:40.817Z'
 title: Colorado's Woody Creek Distillers
 app_links: []
 publisher:
@@ -35,10 +36,11 @@ description: >-
   Colorado Straight Rye.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Colorado's Woody Creek Distillers</h1><p>Only last week a panel of expert judges convened for the annual San Francisco World Spirits Competition-arguably the most prestigious and analytical booze assembling in the States. While the complete results won't be formally announced until 4 April, it's already known that Colorado's independently owned Woody Creek Distillers (located just a 20-minute drive from downtown Aspen) won double gold for one of their newer releases: a tasty small-batch Colorado Straight Rye.</p><img src="http://assets.coolhunting.com/coolhunting/2016/03/25/large_Woody-Creek-Tour-01.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b64dca9b02fd08fb329890c39fa2430abff82993.jpg" /><h1>Colorado's Woody Creek Distillers</h1><p>Only last week a panel of expert judges convened for the annual San Francisco World Spirits Competition-arguably the most prestigious and analytical booze assembling in the States. While the complete results won't be formally announced until 4 April, it's already known that Colorado's independently owned Woody Creek Distillers (located just a 20-minute drive from downtown Aspen) won double gold for one of their newer releases: a tasty small-batch Colorado Straight Rye.</p></article>
+
+> Where family offices get their best outsourcing start
